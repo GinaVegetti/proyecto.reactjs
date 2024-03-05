@@ -1,11 +1,15 @@
-import Navbar from './components/Navbar/Navbar'
+import Navbar from "./components/Navbar/Navbar"
+import ItemListContainer from "./components/ItemListContainer/ItemListContainer"
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <Navbar />
+    
+     <Navbar/>
+     <ItemListContainer saludo= 'BJJ WEAR!'/>
+     
     </>
   )
 }
