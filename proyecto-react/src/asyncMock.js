@@ -4,7 +4,7 @@ const products = [
         name: 'Kimono negro',
         price: 1000,
         category: 'Gi',
-        img: './img/kimononegrolion1.jpg',
+        img: '../img/kimononegrolion1.jpg',
         stock: 25,
         description: 'Chaqueta tramada PEARL WEAVE 480 gms. ​Pantalón Bull canvas 12 onzas reforzado. Corte moderno y limpio. Detalles y diseño innovador.'
     },
@@ -14,7 +14,7 @@ const products = [
         name: 'Kimono blanco',
         price: 800, 
         category: 'Gi',
-        img: './img/kimonoblancolion1.jpg',
+        img: '../img/kimonoblancolion1.jpg',
         stock: 16,
         description: 'Chaqueta tramada PEARL WEAVE 480 gms. ​Pantalón Bull canvas 12 onzas reforzado. Corte moderno y limpio. Detalles y diseño innovador.'
     },
@@ -24,7 +24,7 @@ const products = [
         name: 'Faixa blanca', 
         price: 1200, 
         category: 'Gi', 
-        img: './img/faixa1.png', 
+        img: '../img/faixa1.png', 
         stock: 0, 
         description: 'FAIXA DE JIU JITSU BLANCA A2'
     },
@@ -34,7 +34,7 @@ const products = [
         name: 'GRAPPLING SHORT', 
         price: 1200, 
         category: 'Grappling', 
-        img: './img/short1.png', 
+        img: '../img/short1.png', 
         stock: 0, 
         description: 'Bermuda para NOGI modelo VJJ.'
     }
